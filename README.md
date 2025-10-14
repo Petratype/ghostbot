@@ -1,4 +1,4 @@
-GhostBot 👻
+# GhostBot 👻
 
 A silly, spooky Python chatbot that scans your house for ghosts, cleanses spirits, and even summons magical creatures!  
 
@@ -6,7 +6,7 @@ GhostBot is made for console-based entertainment and practicing offline chatbot 
 
 ---
 
-# Features
+### Features
 
 • **GhostBot Bio** — Learn the haunted origin of GhostBot.  
 • **Scan** — Detect ghosts and get humorous spooky reports.  
@@ -16,7 +16,7 @@ GhostBot is made for console-based entertainment and practicing offline chatbot 
 
 ---
 
-## How to Run
+### How to Run
 
 1. Clone this repository:
 
