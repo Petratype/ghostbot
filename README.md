@@ -41,7 +41,34 @@ GhostBot is perfect for console-based entertainment and practicing Python projec
 
 ## How to Run
 
-☻♥ Clone this repository: ♥☻
+1. ☻♥ Clone this repository: ♥☻
 
 ```bash
 git clone https://github.com/Petratype/ghostbot.git
+
+2. Navigate to the project folder
+
+cd ghostbot
+
+
+3. Run GhostBot
+
+python ghostbot.py
+
+4. Use the commands listed at the start of the program: 
+
+♦ *bio* — Read GhostBot’s spooky biography
+
+♦ *scan* — Scan your house for ghosts
+
+♦ *cleanse* — Cleanse spirits if detected
+
+♦ *summon* — Summon a ghost or magical creature
+
+♦ *bye* — Exit GhostBot
+
+________________________________________________
+
+♦ May your RAM stay unpossessed ♦
+
+________________________________________________
