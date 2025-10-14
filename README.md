@@ -22,15 +22,16 @@ GhostBot is made for console-based entertainment and practicing offline chatbot 
 
 ```bash
 git clone https://github.com/Petratype/ghostbot.git
+```
 
 2.  Navigate to the project folder
 
-cd ghostbot
+``` cd ghostbot ```
 
 
 3. Run GhostBot
 
-python ghostbot.py
+``` python ghostbot.py ```
 
 4. Use the commands listed at the start of the program: 
 
