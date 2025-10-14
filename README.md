@@ -26,12 +26,16 @@ git clone https://github.com/Petratype/ghostbot.git
 
 2.  Navigate to the project folder
 
-``` cd ghostbot ```
+```bash
+ cd ghostbot 
+ ```
 
 
 3. Run GhostBot
 
-``` python ghostbot.py ```
+```bash
+ python ghostbot.py 
+ ```
 
 4. Use the commands listed at the start of the program: 
 
