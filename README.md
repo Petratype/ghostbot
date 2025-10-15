@@ -49,8 +49,20 @@ git clone https://github.com/Petratype/ghostbot.git
 
 ♦ *bye* — Exit GhostBot
 
+
+### 🌐 Try the Web Version
+
+There’s now a browser version too!
+You can chat with GhostBot online — it looks a bit different but shares the same haunted stories and commands:
+👉 GhostBot-Web
+
 ________________________________________________
 
 ♦ May your RAM stay unpossessed ♦
 
 ________________________________________________
+
+
+
+
+♥ Made by PetraType ♥
