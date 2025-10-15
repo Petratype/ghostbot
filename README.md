@@ -54,7 +54,8 @@ git clone https://github.com/Petratype/ghostbot.git
 
 There’s now a browser version too!
 You can chat with GhostBot online — it looks a bit different but shares the same haunted stories and commands:
-👉 GhostBot-Web
+
+👉 [GhostBot-Web](https://petratype.github.io/ghostbot-web)
 
 ________________________________________________
 
