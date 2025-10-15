@@ -16,13 +16,18 @@ GhostBot is made for console-based entertainment and practicing offline chatbot 
 
 ---
 
+
+
 ### How to Run
+
+
 
 1. ☻♥ Clone this repository: ♥☻
 
 ```bash
 git clone https://github.com/Petratype/ghostbot.git
 ```
+
 
 2.  Navigate to the project folder
 
@@ -31,11 +36,13 @@ git clone https://github.com/Petratype/ghostbot.git
  ```
 
 
+
 3. Run GhostBot
 
 ```bash
  python ghostbot.py 
  ```
+
 
 4. Use the commands listed at the start of the program: 
 
@@ -50,12 +57,17 @@ git clone https://github.com/Petratype/ghostbot.git
 ♦ *bye* — Exit GhostBot
 
 
+
+
+
 ### 🌐 Try the Web Version
 
 There’s now a browser version too!
 You can chat with GhostBot online — it looks a bit different but shares the same haunted stories and commands:
 
 👉 [GhostBot-Web](https://petratype.github.io/ghostbot-web)
+
+
 
 ________________________________________________
 
